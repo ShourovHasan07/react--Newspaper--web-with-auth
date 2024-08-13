@@ -16,3 +16,9 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 export default app;
+
+
+
+// live  project  link in below 
+//URL: https://react-dragon-news-9c90d.web.app
+
