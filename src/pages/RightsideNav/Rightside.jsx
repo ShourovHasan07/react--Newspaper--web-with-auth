@@ -6,7 +6,7 @@ import qZone3 from '../../assets/qZone3.png'
 
 const Rightside = () => {
   return (
-    <div className="border rounded-lg shadow-lg">
+    <div className=" rounded-lg shadow-lg">
       <div className="p-6 space-y-4 mb-6">
         <h2 className="text-2xl font-semibold text-center">Login With</h2>
 
